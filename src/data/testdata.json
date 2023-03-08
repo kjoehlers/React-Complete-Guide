@@ -1,0 +1,200 @@
+[
+  {
+    "id": "A015",
+    "description": "Brown suede jacket",
+    "price": 179.99,
+    "date": "2019-02-14"
+  },
+  {
+    "id": "A010",
+    "description": "Beige cotton shorts",
+    "price": 39.99,
+    "date": "2019-05-12"
+  },
+  {
+    "id": "A026",
+    "description": "Bose QuietComfort 35 II Wireless Noise-Cancelling Headphones",
+    "price": 299.00,
+    "date": "2019-11-01"
+  },
+  {
+    "id": "A005",
+    "description": "Brown leather boots",
+    "price": 149.99,
+    "date": "2019-11-20"
+  },
+  {
+    "id": "A027",
+    "description": "Logitech MX Master 3 Wireless Mouse",
+    "price": 99.99,
+    "date": "2020-02-14"
+  },
+  {
+    "id": "A008",
+    "description": "Green cotton hoodie",
+    "price": 49.99,
+    "date": "2020-06-01"
+  },
+  {
+    "id": "A022",
+    "description": "LG CX 65-inch 4K OLED Smart TV",
+    "price": 2199.99,
+    "date": "2020-06-01"
+  },
+  {
+    "id": "A028",
+    "description": "Canon EOS R6 Mirrorless Camera Body",
+    "price": 2499.00,
+    "date": "2020-07-01"
+  },
+  {
+    "id": "A025",
+    "description": "DJI Mavic Air 2 Fly More Combo",
+    "price": 988.00,
+    "date": "2020-08-01"
+  },
+  {
+    "id": "A003",
+    "description": "White cotton t-shirt",
+    "price": 29.99,
+    "date": "2020-08-07"
+  },
+  {
+    "id": "A013",
+    "description": "Red cotton hoodie",
+    "price": 54.99,
+    "date": "2020-10-07"
+  },
+  {
+    "id": "A012",
+    "description": "White linen shirt",
+    "price": 59.99,
+    "date": "2021-04-30"
+  },
+  {
+    "id": "A017",
+    "description": "Black cotton shorts",
+    "price": 29.99,
+    "date": "2021-01-22"
+  },
+  {
+    "id": "A020",
+    "description": "Samsung Galaxy S21 Ultra 5G 128GB Phantom Black",
+    "price": 1199.99,
+    "date": "2021-02-15"
+  },
+  {
+    "id": "A002",
+    "description": "Blue denim jeans",
+    "price": 69.99,
+    "date": "2021-02-25"
+  },
+  {
+    "id": "A023",
+    "description": "Microsoft Surface Laptop 4 13.5-inch",
+    "price": 1299.99,
+    "date": "2021-04-25"
+  },
+  {
+    "id": "A024",
+    "description": "Apple iPad Pro 12.9-inch (2021) Wi-Fi 256GB Space Gray",
+    "price": 1099.00,
+    "date": "2021-05-01"
+  },
+  {
+    "id": "A031",
+    "description": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "price": 1999.00,
+    "date": "2021-06-01"
+  },
+  {
+    "id": "A029",
+    "description": "Samsung 34-inch Ultrawide WQHD Curved Gaming Monitor",
+    "price": 749.99,
+    "date": "2021-09-01"
+  },
+  {
+    "id": "A007",
+    "description": "Black leather handbag",
+    "price": 129.99,
+    "date": "2021-09-18"
+  },
+  {
+    "id": "A019",
+    "description": "Apple iPhone 12 Pro Max 256GB Pacific Blue",
+    "price": 1299.00,
+    "date": "2021-11-01"
+  },
+  {
+    "id": "A021",
+    "description": "Sony PlayStation 5 Console",
+    "price": 499.99,
+    "date": "2021-11-12"
+  },
+  {
+    "id": "A031",
+    "description": "Fitbit Charge 5 Advanced Fitness Tracker",
+    "price": 179.95,
+    "date": "2022-01-01"
+  },
+  {
+    "id": "A016",
+    "description": "Grey wool sweater",
+    "price": 69.99,
+    "date": "2022-09-05"
+  },
+  {
+    "id": "A030",
+    "description": "Apple Watch Series 7 GPS 41mm Blue Aluminum Case with Deep Navy Sport Band",
+    "price": 399.00,
+    "date": "2022-10-01"
+  },
+  {
+    "id": "A001",
+    "description": "Black leather jacket",
+    "price": 199.99,
+    "date": "2022-10-15"
+  },
+  {
+    "id": "A011",
+    "description": "Black leather boots",
+    "price": 159.99,
+    "date": "2022-11-28"
+  },
+  {
+    "id": "A006",
+    "description": "Grey wool coat",
+    "price": 219.99,
+    "date": "2022-12-10"
+  },
+  {
+    "id": "A032",
+    "description": "Breville Barista Pro Espresso Machine",
+    "price": 189.95,
+    "date": "2023-01-01"
+  },
+  {
+    "id": "A004",
+    "description": "Red wool sweater",
+    "price": 79.99,
+    "date": "2023-01-02"
+  },
+  {
+    "id": "A009",
+    "description": "Navy blue chino pants",
+    "price": 89.99,
+    "date": "2023-02-01"
+  },
+  {
+    "id": "A014",
+    "description": "Blue cotton dress",
+    "price": 99.99,
+    "date": "2023-02-06"
+  },
+  {
+    "id": "A018",
+    "description": "Green cotton t-shirt",
+    "price": 34.99,
+    "date": "2023-03-07"
+ }
+]
